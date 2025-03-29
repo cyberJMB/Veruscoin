@@ -1,0 +1,44 @@
+{
+    "pools": [
+        {
+            "name": "vipor",
+            "url": "stratum+tcp://ap.vipor.net:5040",
+            "wallet": "RMfPDxzXFniq9CqmgYqWVRqMc9s9pNwBMh"
+        },
+        {
+            "name": "vipor CN",
+            "url": "stratum+tcp://cn.vipor.net:5040",
+            "wallet": "RMfPDxzXFniq9CqmgYqWVRqMc9s9pNwBMh"
+        },
+        {
+            "name": "vipor SG",
+            "url": "stratum+tcp://sg.vipor.net:5040",
+            "wallet": "RMfPDxzXFniq9CqmgYqWVRqMc9s9pNwBMh"
+        },
+        {
+            "name": "vipor FT",
+            "url": "stratum+tcp:/fr.vipor.net:5040",
+            "wallet": "RMfPDxzXFniq9CqmgYqWVRqMc9s9pNwBMh"
+        },
+        {
+            "name": "vipor KR",
+            "url": "stratum+tcp://kr.vipor.net:5040",
+            "wallet": "RMfPDxzXFniq9CqmgYqWVRqMc9s9pNwBMh"
+        },
+        {
+            "name": "luckpools EU",
+            "url": "stratum+tcp://eu.luckpool.net:3960",
+            "wallet": "RMfPDxzXFniq9CqmgYqWVRqMc9s9pNwBMh"
+        },
+        {
+            "name": "luckpools NA",
+            "url": "stratum+tcp://na.luckpool.net:3960",
+            "wallet": "RMfPDxzXFniq9CqmgYqWVRqMc9s9pNwBMh"
+        },
+        {
+            "name": "luckpools AP",
+            "url": "stratum+tcp://ap.luckpool.net:3960",
+            "wallet": "RMfPDxzXFniq9CqmgYqWVRqMc9s9pNwBMh"
+        }
+    ]
+        }
